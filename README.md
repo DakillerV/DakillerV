@@ -22,3 +22,10 @@ I have also built a replica of the popular form builder Google Forms. While I ha
 Active time: ~2 years
 
 Over the last two years, I have developed a Discord bot that was originally built for my friends and me to have in a Discord server and to mess around with. I have hosted this bot on Heroku and continue to work on its development.
+
+
+## Contact Me
+
+If you would like to learn more about my projects or have any questions, feel free to contact me at the following:
+
+-   Email: [allenrexm@gmail.com](mailto:allenrexm@gmail.com)
